@@ -1,0 +1,24 @@
+PODS:
+  - Alamofire (4.9.1)
+  - FFGlobalAlertController (1.0.2)
+  - KVNProgress (2.3.5)
+
+DEPENDENCIES:
+  - Alamofire (~> 4.9.1)
+  - FFGlobalAlertController
+  - KVNProgress
+
+SPEC REPOS:
+  trunk:
+    - Alamofire
+    - FFGlobalAlertController
+    - KVNProgress
+
+SPEC CHECKSUMS:
+  Alamofire: 85e8a02c69d6020a0d734f6054870d7ecb75cf18
+  FFGlobalAlertController: 40c66500ae173895085911ba19d79d045bd26742
+  KVNProgress: d7046cce142f1aeb740db39dc3cacfe910fac354
+
+PODFILE CHECKSUM: b060bba4c87b770e86fea6af5cdb9007d50485b0
+
+COCOAPODS: 1.11.2
